@@ -10,6 +10,11 @@ body
         margin-left: auto;
         margin-right: auto;
 }
+h1{
+  color: snow;
+  margin-top: 0%;
+  font-family: 'Times New Roman', Times, serif;
+}
 .container{
     margin-top: 100px;
     margin-bottom: 100px;
@@ -29,10 +34,4 @@ body
     margin: auto;
     width: 60%;  
     padding: 10px;
-  }
-
-h1{
-  color: snow;
-  margin-top: 0%;
-  font-family: 'Times New Roman', Times, serif;
-}  
+  }  
