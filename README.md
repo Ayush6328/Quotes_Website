@@ -1,2 +1,2 @@
-# cool
-This is cool
+# Quotes
+Advance Quotes Website with the access feature of twitter.
